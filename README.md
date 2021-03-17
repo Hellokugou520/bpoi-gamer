@@ -1,5 +1,7 @@
 # bpoi-gamer
 
+2021.3.17创建项目
+
 ## Project setup
 ```
 npm install
