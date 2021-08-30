@@ -2,8 +2,6 @@
 
 2021.3.17创建项目
 
-结合兴趣爱好，计划搭建自己的个人网站
-
 ## Project setup
 ```
 npm install
